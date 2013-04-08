@@ -3,7 +3,7 @@ python-subdiv
 
 Python-subdiv is a simple mesh module utilizing catmull-clark subdivision to approximate a sphere by subdividing a cube.
 
-This tool has been tested on python
+This tool has been tested on python 2.7.3
 
 Requirements
 --------------------
